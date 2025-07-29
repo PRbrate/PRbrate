@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Paulo Roberto, tenho 21 anos. Estudande de Análise e desenvolvimento de Sistemas pela UNIFAN localizada em Feira de Santana-Ba. Apaixonado por tecnologia e desenvolvimento de software, estou sempre explorando novas ideias e desafios. Atualmente, foco meus estudos e projetos em C# e .NET, aprendendo mais sobre eficiência e escalabilidade.
+Me chamo Paulo Roberto, tenho 21 anos. formado em Análise e desenvolvimento de Sistemas pela UNIFAN. Apaixonado por tecnologia e desenvolvimento de software, estou sempre explorando novas ideias e desafios. Atualmente, foco meus estudos e projetos em C# e .NET, aprendendo mais sobre eficiência e escalabilidade.
 
 🚀 Aqui no meu GitHub, você encontrará alguns repositórios relacionados a  aplicações web e muito mais. 
 
